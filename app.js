@@ -195,7 +195,7 @@ function buildPlaylist() {
       method: 'POST',
       data: JSON.stringify({
         name: 'Top Tracks - ' + time_range_display,
-        description: 'created on ' + date + ' • will-hodge.github.io/top-tunes',
+        description: 'created on ' + date + ' • seguanzon.github.io/Younify1.3/',
         public: false,
       }),
       headers: {
