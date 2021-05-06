@@ -13,6 +13,9 @@ button:hover {
   background-color: rgb(14, 108, 139) !important;
   transition: all 0.5s ease !important;
 }
+#results-header {
+  color: #FFF !important;
+}
 
 body {
   background-image: linear-gradient(to bottom, rgba(255, 209, 102, 0.836), rgba(17, 138, 178, 0.534)), url("background1.jpg");
