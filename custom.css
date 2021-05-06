@@ -4,7 +4,7 @@
 }
 
 body {
-  background-image: linear-gradient(to bottom, rgba(255, 231, 125, 0.836), rgba(24, 99, 17, 0.534)), url("/background1.jpg");
+  background-image: linear-gradient(to bottom,  rgba(255, 218, 51, 0.836), rgba(24, 99, 17, 0.534)), url("background1.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
