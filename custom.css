@@ -13,7 +13,7 @@ button:hover {
   background-color: rgb(14, 108, 139) !important;
   transition: all 0.5s ease !important;
 }
-#results-header {
+h1, h2, h3 {
   color: #FFF !important;
 }
 
